@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Validate_Login_Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Amazon_TestData/Validate_Login_TestData_Internal</source-url>
+   </source-info>
+   <taken-date>2024-01-24T22:00:54.842+05:30</taken-date>
+   <column-names>
+      <column-name>email</column-name>
+      <column-name>password</column-name>
+      <column-name>confirm</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "nehakale2411@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "Neha@amazon1",
+      "checked": false
+    },
+    {
+      "value": "Login Successful",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
